@@ -4,7 +4,7 @@ This project showcases a web application for analyzing YouTube video transcripts
 
 ## Overview
 
-The YouTube Video Transcript Analysis project leverages ChatGPT, powered by OpenAI's GPT API, to provide an interactive chat interface for users to question and gain insights about a YouTube video's content. The application also uses an unofficial YouTube Transcript API to fetch the transcript of the video.
+The TubeGPT project leverages OpenAI's GPT API, to provide an interactive chat interface for users to question and gain insights about a YouTube video's content. The application also uses an unofficial YouTube Transcript API to fetch the transcript of the video.
 
 ## Note
 
